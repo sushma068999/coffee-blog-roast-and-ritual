@@ -26,17 +26,5 @@ Designed to capture the atmosphere, rituals, and experiences surrounding coffee 
 
 This project was created to practice React fundamentals, component-based architecture, styling, layout design, and modern frontend development while building a visually appealing blog experience.
 
-Screenshots
-
-(Add screenshots or GIFs here)
-
-## Future Improvements
-
-- Dark mode
-- Search functionality
-- Article pages
-- Blog categories
-- Backend integration
-
 ## Author
 Built by Sushma Rai
