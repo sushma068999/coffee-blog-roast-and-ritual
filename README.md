@@ -1,16 +1,38 @@
-# React + Vite
+# Coffee & Stories
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern coffee-inspired blog built with React and Vite.
 
-Currently, two official plugins are available:
+Designed to capture the atmosphere, rituals, and experiences surrounding coffee culture through a clean and immersive interface.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
 
-## React Compiler
+- Responsive navigation bar
+- Full-screen hero section
+- Explore Our World content cards
+- Bean-to-Brew timeline
+- Featured editor articles
+- Parallax-style image banner
+- Custom coffee-inspired color palette
+- Responsive layout
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Built With
 
-## Expanding the ESLint configuration
+- React
+- Vite
+- JavaScript
+- CSS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Project Goal
+
+This project was created to practice React fundamentals, component-based architecture, styling, layout design, and modern frontend development while building a visually appealing blog experience.
+
+![Calculator Screenshot1](screenshot1.PNG)
+![Calculator Screenshot2](screenshot2.PNG)
+![Calculator Screenshot3](screenshot3.PNG)
+![Calculator Screenshot4](screenshot4.PNG)
+![Calculator Screenshot5](screenshot5.PNG)
+![Calculator Screenshot6](screenshot6.PNG)
+(Images used for educational purposes)
+
+## Author
+Built by Sushma Rai
