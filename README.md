@@ -30,5 +30,9 @@ This project was created to practice React fundamentals, component-based archite
 
 (Images used for educational purposes)
 
+## Installation
+npm install
+npm run dev
+
 ## Author
 Built by Sushma Rai
