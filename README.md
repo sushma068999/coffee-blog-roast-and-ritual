@@ -1,4 +1,4 @@
-# Roast & Rituals
+# Roast & Ritual
 
 A modern coffee-inspired blog built with React and Vite.
 
