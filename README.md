@@ -26,12 +26,12 @@ Designed to capture the atmosphere, rituals, and experiences surrounding coffee 
 
 This project was created to practice React fundamentals, component-based architecture, styling, layout design, and modern frontend development while building a visually appealing blog experience.
 
-![Screenshot1](screenshot/screenshot1.PNG)
-![Screenshot2](screenshot/screenshot2.PNG)
-![Screenshot3](screenshot/screenshot3.PNG)
-![Screenshot4](screenshot/screenshot4.PNG)
-![Screenshot5](screenshot/screenshot5.PNG)
-![Screenshot6](screenshot/screenshot6.PNG)
+![Screenshot1](screenshots/screenshot1.PNG)
+![Screenshot2](screenshots/screenshot2.PNG)
+![Screenshot3](screenshots/screenshot3.PNG)
+![Screenshot4](screenshots/screenshot4.PNG)
+![Screenshot5](screenshots/screenshot5.PNG)
+![Screenshot6](screenshots/screenshot6.PNG)
 
 (Images used for educational purposes)
 
